@@ -165,7 +165,7 @@ def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
                 'type': 'text',
                 'text': '{}'.format(str(helpMessage)),
                 'sentBy': {
-                    'label': 'Reighpuy',
+                    'label': 'Reighpuy X Yepz',
                     'iconUrl' : "https://pbs.twimg.com/profile_images/1164752786992484354/PyFcqmzG_400x400.jpg",
                     'linkUrl' : 'https://line.me/ti/p/~yapuy'
                 }
